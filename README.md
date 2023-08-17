@@ -33,3 +33,13 @@ The dataset contains 13 features :
 12	Property_Area: Area of property i.e. Rural/Urban/Semi-urban
 
 13	Loan_Status: Status of Loan Approved or not i.e. Y- Yes, N-No 
+
+Importing Libraries and Dataset
+
+Firstly we have to import libraries :
+
+1.Pandas – To load the Dataframe
+
+2.Matplotlib – To visualize the data features i.e. barplot
+
+3.Seaborn – To see the correlation between features using heatmap
